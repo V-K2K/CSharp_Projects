@@ -239,3 +239,5 @@ if (a > 99)
     Console.WriteLine(third);
 }
 else Console.WriteLine("Not a 3 digit number ");
+
+/* */
